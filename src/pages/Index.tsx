@@ -442,7 +442,9 @@ const Index = () => {
           </div>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="#"
+              href="https://www.airbnb.com.br/rooms/1113040286107596948"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 bg-farm-gold hover:bg-farm-gold/90 text-white px-10 py-4 text-sm font-semibold tracking-[0.15em] transition-colors"
             >
               <ExternalLink className="w-4 h-4" />
